@@ -17,13 +17,10 @@
 
 如果你喜欢,欢迎 [Star and Fork](https://github.com/lemonjing/tinymooc), 谢谢!
 
-<<<<<<< HEAD
-=======
 ## 演示地址
 
-~~http://119.29.97.92已失效~~ 请换用本地测试
+~~http://119.29.97.92 已失效~~ 请换用本地测试
 
->>>>>>> refs/remotes/origin/master
 ## 部分页面展示
 
 ### 个人课程学习情况
