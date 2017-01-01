@@ -51,7 +51,11 @@ function _search()
 {
     var form = document.form1;
     form.searchValue.value = (form.searchValue.value).replace(/[&\|\\\*^%$#@\-]/g,"");
+<<<<<<< HEAD
     if(form.searchValue.value.trim() == '')
+=======
+    if(form.searchValue.value == '')
+>>>>>>> refs/remotes/origin/master
     {
         alert("输入需要搜索关键字！");
         return false;

@@ -6,6 +6,10 @@
 [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg?style=flat-square)](https://www.apache.org/licenses/LICENSE-2.0.html)
 [![@不能卖萌心塞塞 on weibo](http://7xlkoc.com1.z0.glb.clouddn.com/weibo.png)](http://weibo.com/u/1662536394)
 
+## 关于Maven下载缺失的Jar包以及数据库SQL文件
+
+[点此下载](http://pan.baidu.com/s/1eRJcPoA) 密码：9ub8
+
 ## 萌课(`tinymooc`)是什么?
 
 `tinymooc` 中文名萌课,是一个轻量级Web网站。它拥有简洁的代码,优雅的设计。
@@ -13,6 +17,13 @@
 
 如果你喜欢,欢迎 [Star and Fork](https://github.com/lemonjing/tinymooc), 谢谢!
 
+<<<<<<< HEAD
+=======
+## 演示地址
+
+~~http://119.29.97.92已失效~~ 请换用本地测试
+
+>>>>>>> refs/remotes/origin/master
 ## 部分页面展示
 
 ### 个人课程学习情况

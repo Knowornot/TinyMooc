@@ -55,8 +55,11 @@ public class AdminController {
                System.out.println("开始搜索了吗？");
 
         String q = req.getParameter("searchValue");
+<<<<<<< HEAD
 					if(null == q || "" == q)
 
+=======
+>>>>>>> refs/remotes/origin/master
         System.out.println("搜索的内容" + q);
         DecimalFormat df = new DecimalFormat("#0.000");
 
